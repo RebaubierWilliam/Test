@@ -1,0 +1,12 @@
+{
+    "name": "mon-app",
+    "version": "0.1.0",
+    "dependencies": {
+    },
+	"repository": {
+  "type": "git",
+  "url": "https://github.com/RebaubierWilliam/Test.git"
+},
+	"description": "An example module to illustrate the usage of a package.json",
+	"license": "MIT"
+}
